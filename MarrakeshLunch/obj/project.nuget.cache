@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+SAFPNeNT/LLWu4ugjt5pvlYMpq8jStNrOSEZuDar1g7UMn5v5jwUR3LPKzHcz5XYaGsU5fagDqhfpZaT75vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anass.elguermai\\Desktop\\HSO\\SWE\\Backend\\MarrakeshLunch\\MarrakeshLunch\\MarrakeshLunch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\anass.elguermai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
